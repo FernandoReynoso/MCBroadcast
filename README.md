@@ -1,4 +1,8 @@
-MCBroadcast is a simple way to communicate with nearby devices using Multipeer Connectivity framework.
+# MCBroadcast
+
+MCBroadcast is a simple way to communicate with nearby devices using Multipeer Connectivity framework. Written in `Swift`.
+
+Developed with iOS SDK 8.3
 
 How it works
 ------------
